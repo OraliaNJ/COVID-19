@@ -1,4 +1,3 @@
 /*This is contains the extraction Data for 79 record days.
-The hierarquical data is divided in first step the patients whose tested positive to the virus, 
-in second stage is the data that was divided in two categories (H) Hospitalized Patient and (NH) Non-Hospitalized Patients, 
-finally the each category was sectionad in 5 regions*/
+The hierarquical data is divided in first step the patients whose tested positive to the virus, in second stage, this data was divided in two categories:
+(H) Hospitalized Patient and (NH) Non-Hospitalized Patients, finally the each category was sectionad in 5 Mexico's regions*/
