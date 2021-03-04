@@ -1,3 +1,12 @@
 /*This is contains the extraction Data for 79 record days.
-The hierarquical data is divided in first step the patients whose tested positive to the virus, in second stage, this data was divided in two categories:
-(H) Hospitalized Patient and (NH) Non-Hospitalized Patients, finally the each category was sectionad in 5 Mexico's regions*/
+The hierarquical data is divided in first step the patients whose tested positive to the virus (Figure 1), in second stage, this data was divided in two categories:
+(H) Hospitalized Patient and (NH) Non-Hospitalized Patients, finally the each category was sectionad in 5 Mexico's regions: United Mexican States of Northwest Region (R1), United
+Mexican States of Northeast Region (R2), United Mexican States of West Region (R3), United Mexican States of Central Region (R4) and United Mexican
+States of Southeast Region (R5).*/
+
+- Figure 1: Methodology and Network database were constructed hierarchical variables identified by 5 different colors as follows: maroon, orange, blue, green and purple.
+- Figure 2: Age distributions of H and NH patients in R1 for 10 days.
+- Figure 3: Boxplot of the 5 Mexico’s regions grouped by the 9 comorbidities, the top graph is from NH patients values and the bottom graph is form H patients.
+- Figure 4: Correlation’s sub-matrices, the top matrix constitutes the positive correlation and the bottom matrix the negative correlation.
+- Figure 5: SuperHeat map describes the density relationship between the comorbidities, N and NH patients in the Regions of M´exico during the 79 days with the pandemic.
+- Figure 6: Bayesian Network cofiguration for calculate the Probability Analysis.
