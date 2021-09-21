@@ -1,4 +1,4 @@
-/*This is contains the extraction Data for 79 record days.
+/*It contains the extraction Data for 79 record days.
 The hierarquical data is divided in first step the patients whose tested positive to the virus (Figure 1), in second stage, this data was divided in two categories:
 (H) Hospitalized Patient and (NH) Non-Hospitalized Patients, finally the each category was sectionad in 5 Mexico's regions: United Mexican States of Northwest Region (R1), United
 Mexican States of Northeast Region (R2), United Mexican States of West Region (R3), United Mexican States of Central Region (R4) and United Mexican
